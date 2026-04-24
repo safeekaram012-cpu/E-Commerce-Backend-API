@@ -1,5 +1,5 @@
-# E-Commerce-Backend-API
-# 🛒 E-Commerce Backend API
+
+#  E-Commerce Backend API
 
 A scalable and secure backend system for an e-commerce platform built using **Spring Boot**. This project provides RESTful APIs for managing products, users, and orders with robust database integration and security.
 
